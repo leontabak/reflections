@@ -1,0 +1,7 @@
+
+(0) What happens when you initialize a repository? Why do you need to do it?
+
+The program creates a hidden folder and files. This creates the
+framework that git will use to track the history of changes that
+I make to my own files.
+
