@@ -5,3 +5,10 @@ The program creates a hidden folder and files. This creates the
 framework that git will use to track the history of changes that
 I make to my own files.
 
+(1) How is the staging area different from the working directory and 
+the repository? What value do you think it offers?
+
+We indicate to git which changes we would like to record.
+Our working directory contains all files, including files for
+which we do not want to record a history.
+
