@@ -12,3 +12,31 @@ We indicate to git which changes we would like to record.
 Our working directory contains all files, including files for
 which we do not want to record a history.
 
+(2) How can you use the staging area to make sure you have one 
+commit per logical change?
+
+I can add all of the files that contain elements of the
+one logical change to the staging area and then commit.
+
+(3) What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+
+I might want to experiment while making it easy to 
+return to a version of my program that I know works.
+
+(4) How do the diagrams help you visualize the branch structure?
+
+I can see how the history of the current branch differs
+from the history of other branches.
+
+(5) What is the result of merging two branches together? Why do 
+we represent it in the diagram the way we do?
+
+All of the changes produced in both branches became part of the
+history of the new commit.
+
+(6) What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+
+Automatic merging saves me work in many cases. Manual merging
+is necessary when git cannot resolve conflicts.
