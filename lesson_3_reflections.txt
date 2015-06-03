@@ -12,3 +12,19 @@ Git automatically stay up-to-date with your remote repository?
 
 I do not know---automatic pulls sound like a good idea!
 
+(2) Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+I use clone to copy code from a remote repository to my local
+computer. My students use clone to copy code that I place on
+our local file server or from a repository that they create
+on their GitHub accounts by forking a repository in my GitHub
+account for their use.
+
+I use fork to copy code from someone else's GitHub account to 
+my own GitHub account. My students use fork to copy code that
+I place on GitHub for their use.
+
+I use branch on my local machine to create a new version
+of a project that I might want to develop in parallel to
+other versions.
