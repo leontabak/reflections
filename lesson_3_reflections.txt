@@ -1,4 +1,4 @@
-When would you want to use a remote repository rather than keeping all your work local?
+(0) When would you want to use a remote repository rather than keeping all your work local?
 
 Before leaving my office at my college at the end of the day, I push my
 work to a remote repository. When I am ready to resume work on a project
@@ -6,3 +6,9 @@ at home later in the evening, I pull from that remote repository to my
 home computer. At the end of the evening, I push the work from my home
 computer back to the remote repository, where I can find it in the morning
 at the start of a new day in my office.
+
+(1) Why might you want to always pull changes manually rather than having 
+Git automatically stay up-to-date with your remote repository?
+
+I do not know---automatic pulls sound like a good idea!
+
