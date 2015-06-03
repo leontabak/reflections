@@ -33,3 +33,13 @@ other versions.
 state of the remote stored locally?
 
 I do not yet understand.
+
+(4) How would you collaborate without using Git or GitHub? What would 
+be easier, and what would be harder?
+
+I could exchange files via e-mail, ftp, scp, or rsync. I would have
+it invent my own system for recording the relationships among files.
+I might, for example, invent some naming conventions. This might be
+easier at the start and might work okay on small projects, but I expect
+that I would quickly find it to be inferior to the use of git.
+
