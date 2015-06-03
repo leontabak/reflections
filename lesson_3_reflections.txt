@@ -28,3 +28,8 @@ I place on GitHub for their use.
 I use branch on my local machine to create a new version
 of a project that I might want to develop in parallel to
 other versions.
+
+(3) What is the benefit of having a copy of the last known 
+state of the remote stored locally?
+
+I do not yet understand.
